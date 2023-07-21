@@ -318,6 +318,15 @@
 	.item-usefulness p {
 		font-size: 1em;
 	}
+	.billbord {
+		background-position: 65% 50%;
+	}
+	.item-training__descr {
+		font-size: 1em;
+	}
+	.title-middle {
+		font-size: 1.4em;
+	}
 }
 
 /* Extra Small Devices, Phones */
