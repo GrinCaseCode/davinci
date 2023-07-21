@@ -141,6 +141,7 @@ form {
 	color: #fff;
 	border-bottom: 1px solid transparent;
 }
+.menu a.mPS2id-highlight-first,
 .menu a:hover {
 	border-color: #fff;
 }
