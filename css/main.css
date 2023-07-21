@@ -103,7 +103,7 @@ form {
 	border-bottom: 1px solid rgba(245, 245, 245, 0.3);
 }
 .header.fixed {
-	    background-color: #4F5E7F;
+	background-color: #4F5E7F;
 }
 .header__wrapper {
 	display: flex;
@@ -265,7 +265,7 @@ form {
 	background: #46BFB3;
 }
 .btn-main_page:hover {
-background: #24ab9e;
+	background: #24ab9e;
 }
 .video-main {
 	color: #FFF;
@@ -447,7 +447,7 @@ background: #24ab9e;
 	margin-top: 20px;
 	padding: 0em 2em 0em 40px;
 	color: #FFFFFF9C;
-	    font-size: 0.9em;
+	font-size: 0.9em;
 }
 .item-team ul li {
 	list-style-type: disc;
@@ -486,23 +486,23 @@ background: #24ab9e;
 }
 .price-middle {
 	margin-bottom: 10px;
-	    font-size: 1.6em;
+	font-size: 1.6em;
 }
 .item-price__descr {
-	    font-size: 0.7em;
-	    margin-bottom: 0.9rem;
+	font-size: 0.7em;
+	margin-bottom: 0.9rem;
 }
 .row_prices {
 	margin: 0 -10px;
 	margin-top: 2em;
 }
 .subtitle-small {
-	    font-size: 0.8em;
+	font-size: 0.8em;
 }
 .item-price__title {
-	    font-size: 0.9em;
-	    margin-bottom: 35px;
-	    font-weight: 700;
+	font-size: 0.9em;
+	margin-bottom: 35px;
+	font-weight: 700;
 }
 .item-price__bottom {
 	padding-top: 30px;
@@ -514,14 +514,14 @@ background: #24ab9e;
 	margin-top: 0;
 }
 .item-price_special {
-	    background-color: #48C5B7;
-	    color: #fff;
+	background-color: #48C5B7;
+	color: #fff;
 }
 .item-price_special .item-price__title {
 	color: #171717;
 }
 .item-price__text {
-	    font-size: 0.9em;
+	font-size: 0.9em;
 }
 .item-price_big {
 	border: 3px solid #fff;
@@ -531,14 +531,14 @@ background: #24ab9e;
 	border-top: 3px solid #fff;
 }
 .item-price_big .price-big {
-	    font-size: 2.6em;
+	font-size: 2.6em;
 }
 
 .rooms {
-	    padding: 5em 0em 7em 0em;
-	    background-color: #4F5E7F;
-	    color: #fff;
-	    position: relative;
+	padding: 5em 0em 7em 0em;
+	background-color: #4F5E7F;
+	color: #fff;
+	position: relative;
 }
 .rooms .title-section {
 	text-align: center;
@@ -550,34 +550,34 @@ background: #24ab9e;
 	left: 0;
 	margin-bottom: -2px;
 	position: absolute;	
-	    transform: rotate(180deg);
-	    background-image: url(../img/rooms_top.svg);
-	    background-repeat: no-repeat;
-	    background-position: center;
-	    background-size: 100% 100%;
+	transform: rotate(180deg);
+	background-image: url(../img/rooms_top.svg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100% 100%;
 }
 .item-room {
-	    padding: 2em 2em 2em 2em;
-	    background-color: #fff;
+	padding: 2em 2em 2em 2em;
+	background-color: #fff;
 	min-height: 100%;
 	border-radius: 20px;
 	color: #000;
 }
 .item-room__top {
-    font-size: 0.9em;
-    margin-bottom: 20px;
+	font-size: 0.9em;
+	margin-bottom: 20px;
 }
 .item-room__image {
 	height: 312px;
 	margin-bottom: 20px;
-	    border-radius: 5px 80px 80px 5px;
+	border-radius: 5px 80px 80px 5px;
 	width: 100%;
 	display: block;
 }
 .item-room__image img {
 	width: 100%;
 	height: 100%;
-	    border-radius: 5px 80px 80px 5px;
+	border-radius: 5px 80px 80px 5px;
 	object-fit: cover;
 	font-family: 'object-fit: cover;';
 }
@@ -596,7 +596,7 @@ background: #24ab9e;
 	height: 57px;
 }
 .link-page {
-	    font-size: 0.9em;
+	font-size: 0.9em;
 	color: #171717;
 	display: flex;
 	align-items: center;
@@ -620,36 +620,36 @@ background: #24ab9e;
 	margin-bottom: 20px;
 }
 .phone-big {
-	    font-size: 2.6em;
-	    color: #fff;
+	font-size: 2.6em;
+	color: #fff;
 	display: inline-block;
 }
 
 .footer {
-	    padding: 5em 0em 5em 0em;
+	padding: 5em 0em 5em 0em;
 	color: #fff;
-	    background-color: #43506C;
+	background-color: #43506C;
 }
 .footer-logo .logo img {
 	width: 200px;
 	max-width: 100%;
 }
 .footer-logo .logo-descr {
-    font-size: 0.8em;
-    margin: 0;
-    margin-top: 1em;
-    max-width: 100%;
+	font-size: 0.8em;
+	margin: 0;
+	margin-top: 1em;
+	max-width: 100%;
 }
 .footer__nav a {
 	color: #fff;
 }
 .social-list a:hover,
 .footer__nav a:hover {
-		color: #FF6F6F;
+	color: #FF6F6F;
 }
 .footer__nav {
-	    font-size: 0.8em;
-    line-height: 1.6em;
+	font-size: 0.8em;
+	line-height: 1.6em;
 }
 .social-list {
 	display: flex;
@@ -744,8 +744,8 @@ background: #24ab9e;
 	padding-bottom: 9em;
 }
 .item-comparsion {
-	    font-size: 0.9em;
-	    margin-top: 30px;
+	font-size: 0.9em;
+	margin-top: 30px;
 	display: flex;
 }
 .item-comparsion img {
@@ -755,30 +755,30 @@ background: #24ab9e;
 	flex: none;
 }
 .wrapper_judo .title-section {
-	    font-size: 1.6em;
-    font-weight: 700;
-    line-height: 1.3em;
+	font-size: 1.6em;
+	font-weight: 700;
+	line-height: 1.3em;
 	font-family: 'Unbounded';
 }
 .wrapper_judo .title-middle {
-	    font-size: 1.2em;
+	font-size: 1.2em;
 	font-weight: 500;
-    font-family: "Unbounded", Sans-serif;
+	font-family: "Unbounded", Sans-serif;
 }
 .sign-main {
 	margin-top: 3em;
 	border-radius: 1em;
 	border: 2px solid #FF6F6F;
-	    padding: 1.5em 1.5em 1.5em 1.5em;
+	padding: 1.5em 1.5em 1.5em 1.5em;
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
 }
 .sign-main .btn-main {
-	    font-size: 0.8em;
-    font-weight: 700;
-    height: 67px;
-    padding: 0 50px;
+	font-size: 0.8em;
+	font-weight: 700;
+	height: 67px;
+	padding: 0 50px;
 	flex: none;
 }
 .sign-main__content {
@@ -793,7 +793,7 @@ background: #24ab9e;
 
 .usefulness {
 	padding: 8.5em 0;
-	    background-color: #E6E5E1;
+	background-color: #E6E5E1;
 }
 .item-usefulness {
 	padding: 1em;
@@ -810,27 +810,27 @@ background: #24ab9e;
 	margin-top: 20px;
 }
 .item-usefulness__title {
-	    font-size: 1em;
-	    margin-bottom: 20px;
-    line-height: 1.3em;
-    font-family: 'Unbounded';
+	font-size: 1em;
+	margin-bottom: 20px;
+	line-height: 1.3em;
+	font-family: 'Unbounded';
 }
 .item-usefulness p {
 	font-size: 0.86em;
 	margin: 0;
 }
 .text-big {
-	    font-size: 1.15em;
+	font-size: 1.15em;
 }
 .sign-main_common .sign-main__content {
-    max-width: 605px;
+	max-width: 605px;
 }
 .item-program .row {
 	align-items: center;
 }
 .item-program__image {
 	height: 404px;
-	    border-radius: 5px 100px 100px 5px;
+	border-radius: 5px 100px 100px 5px;
 	display: block;
 }
 .item-program__image img {
@@ -838,7 +838,7 @@ background: #24ab9e;
 	height: 100%;
 	object-fit: cover;
 	font-family: 'object-fit: cover;';
-	    border-radius: 5px 100px 100px 5px;
+	border-radius: 5px 100px 100px 5px;
 }
 .item-program {
 	margin: 5em 0;
@@ -848,8 +848,8 @@ background: #24ab9e;
 	flex-direction: row-reverse;
 }
 .descr-program {
-	    font-size: 1.2em;
-	    text-align: center;
+	font-size: 1.2em;
+	text-align: center;
 }
 .program {
 	padding: 9em 0;
