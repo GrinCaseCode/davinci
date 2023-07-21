@@ -1,0 +1,82 @@
+@font-face {
+	font-family: 'Nunito Sans';
+	src: local('NunitoSans_10pt-Regular'), local('NunitoSans_10pt-Regular'),
+	url('../fonts/NunitoSans_10pt-Regular.woff2') format('woff2'),
+	url('../fonts/NunitoSans_10pt-Regular.woff') format('woff'),
+	url('../fonts/NunitoSans_10pt-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Nunito Sans';
+	src: local('NunitoSans_10pt-SemiBold'), local('NunitoSans_10pt-SemiBold'),
+	url('../fonts/NunitoSans_10pt-SemiBold.woff2') format('woff2'),
+	url('../fonts/NunitoSans_10pt-SemiBold.woff') format('woff'),
+	url('../fonts/NunitoSans_10pt-SemiBold.ttf') format('truetype');
+	font-weight: 600;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Nunito Sans';
+	src: local('NunitoSans_10pt-Bold'), local('NunitoSans_10pt-Bold'),
+	url('../fonts/NunitoSans_10pt-Bold.woff2') format('woff2'),
+	url('../fonts/NunitoSans_10pt-Bold.woff') format('woff'),
+	url('../fonts/NunitoSans_10pt-Bold.ttf') format('truetype');
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Nunito Sans';
+	src: local('NunitoSans_10pt-Black'), local('NunitoSans_10pt-Black'),
+	url('../fonts/NunitoSans_10pt-Black.woff2') format('woff2'),
+	url('../fonts/NunitoSans_10pt-Black.woff') format('woff'),
+	url('../fonts/NunitoSans_10pt-Black.ttf') format('truetype');
+	font-weight: 900;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Cy Grotesk';
+	src: local('cy-grotesk-grand-dark'), local('cy-grotesk-grand-dark'),
+	url('../fonts/cy-grotesk-grand-dark.woff2') format('woff2'),
+	url('../fonts/cy-grotesk-grand-dark.woff') format('woff'),
+	url('../fonts/cy-grotesk-grand-dark.ttf') format('truetype');
+	font-weight: 800;
+	font-style: normal;
+}
+@font-face {
+    font-family: 'Unbounded';
+    src: local('Unbounded Regular'), local('Unbounded-Regular'),
+        url('../fonts/Unbounded-Regular.woff2') format('woff2'),
+        url('../fonts/Unbounded-Regular.woff') format('woff'),
+        url('../fonts/Unbounded-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'Unbounded';
+    src: local('Unbounded Medium'), local('Unbounded-Medium'),
+        url('../fonts/Unbounded-Medium.woff2') format('woff2'),
+        url('../fonts/Unbounded-Medium.woff') format('woff'),
+        url('../fonts/Unbounded-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'Unbounded';
+    src: local('Unbounded Bold'), local('Unbounded-Bold'),
+        url('../fonts/Unbounded-Bold.woff2') format('woff2'),
+        url('../fonts/Unbounded-Bold.woff') format('woff'),
+        url('../fonts/Unbounded-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'Unbounded';
+    src: local('Unbounded Black'), local('Unbounded-Black'),
+        url('../fonts/Unbounded-Black.woff2') format('woff2'),
+        url('../fonts/Unbounded-Black.woff') format('woff'),
+        url('../fonts/Unbounded-Black.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+  }
