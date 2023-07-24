@@ -1,17 +1,17 @@
 *::-webkit-input-placeholder {
-	color: #666;
+	color: #17171752;
 	opacity: 1;
 }
 *:-moz-placeholder {
-	color: #666;
+	color: #17171752;
 	opacity: 1;
 }
 *::-moz-placeholder {
-	color: #666;
+	color: #17171752;
 	opacity: 1;
 }
 *:-ms-input-placeholder {
-	color: #666;
+	color: #17171752;
 	opacity: 1;
 }
 
@@ -25,7 +25,6 @@ body textarea:required:valid {
 }
 body {
 	font-family: 'Nunito Sans';
-	font-size: 16px;
 	font-size: 1.4em;
 	line-height: 1.5;
 	overflow-x: hidden;
@@ -38,7 +37,10 @@ button {
 button, input, optgroup, select, textarea {
 	font-family: inherit;
 }
-input {
+input.text,
+input[type="text"],
+input[type="button"],
+input[type="submit"] {
 	-webkit-appearance: none;
 	-moz-appearance: none;
 	appearance: none;
@@ -854,4 +856,80 @@ form {
 }
 .program {
 	padding: 9em 0;
+}
+.first-class {
+	padding: 5em 0;
+	color: #fff;
+	background-color: #4F5E7F;
+}
+.wrapper_page .header {
+	position: relative;
+	background-color: #4F5E7F;
+	border: none;
+}
+.first-class .title-section {
+    font-size: 2.2em;
+    font-weight: 600;
+        line-height: 1;
+        color: #48C5B7;
+}
+.block-form {
+	padding: 2em;
+	border-radius: 20px;
+	color: #171717;
+	background-color: #fff;
+}
+.first-class .block-form {
+	margin-top: 35px;
+	margin-bottom: 2em;
+}
+.item-form input {
+	height: 59px;
+	    color: #171717;
+    padding: 7px 20px;
+font-size: 1em;
+    font-weight: normal;
+    line-height: 1.6em;
+    font-family: 'Nunito Sans';
+        background-color: #F2EEEE;
+        border: none;
+        width: 100%;
+    border-radius: 10px;
+}
+.title-input {
+	font-size: 0.8em;
+    font-weight: 700;
+    line-height: 1.6em;
+    padding-bottom: 10px;
+}
+.ui-datepicker {
+	font-size: 16px;
+}
+.item-form_number,
+.item-form_data {
+	max-width: 50%;
+}
+.item-radios label {
+	margin-bottom: 8px;
+	display: block;
+}
+.item-radios label:last-child {
+	margin-bottom: 0;
+}
+.item-form,
+.item-radios {
+	margin-bottom: 30px;
+}
+.block-form .btn-main {
+	height: 75px;
+	padding: 0 50px;
+	font-size: 1em;
+    font-weight: 600;
+    line-height: 25px;
+}
+.first-class .link-page {
+	color: #fff;
+}
+.first-class .link-page:hover {
+	color: #FF6F6F;
 }

@@ -23,6 +23,8 @@ if ( $(this).scrollTop() > 0 && $menu.hasClass("default") ){
 		offset: 60
 	});
 
+	 $('.input_datetime').datepicker();
+
 
 	//кнопка sandwich
 	$(".sandwich").click(function() {

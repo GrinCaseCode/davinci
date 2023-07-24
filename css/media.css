@@ -327,6 +327,16 @@
 	.title-middle {
 		font-size: 1.4em;
 	}
+	.first-class {
+		padding: 3em 0;
+	}
+	.item-form_number, .item-form_data {
+		max-width: 100%;
+	}
+	.block-form .btn-main {
+		height: 60px;
+		padding: 0 45px;
+	}
 }
 
 /* Extra Small Devices, Phones */
