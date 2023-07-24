@@ -933,3 +933,31 @@ font-size: 1em;
 .first-class .link-page:hover {
 	color: #FF6F6F;
 }
+.ui-button, .ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default, html .ui-button.ui-state-disabled:active, html .ui-button.ui-state-disabled:hover {
+    border: none;
+    background: transparent;
+    font-weight: 400;
+    color: #454545;
+    text-align: center;
+}
+.ui-icon.ui-icon-circle-triangle-w {
+	background-image: url(../img/prev.svg) !important;
+	background-position: center;
+}
+.ui-icon.ui-icon-circle-triangle-e {
+	background-image: url(../img/next.svg) !important;
+	background-position: center;
+}
+.ui-widget-header {
+	background: transparent;
+	border: none;
+}
+.ui-state-default:hover,
+.ui-state-active, .ui-widget-content .ui-state-active {
+	    background-color: #F2EEEE;
+}
+.ui-widget.ui-widget-content {
+	border-radius: 8px;
+	border-color: #ddd;
+	box-shadow: 0 0 5px #c5c5c5;
+}
