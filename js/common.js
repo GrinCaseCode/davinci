@@ -38,7 +38,7 @@ if ( $(this).scrollTop() > 0 && $menu.hasClass("default") ){
 		}
 	});
 
-	$(".menu li a").click(function() {
+	$(".menu-mobile .menu li a").click(function() {
 		$(".menu-mobile").slideUp(200);
 		$(".sandwich").removeClass("active");
 		$(".header").removeClass("active");
