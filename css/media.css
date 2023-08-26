@@ -242,7 +242,10 @@
 		align-items: center;
 	}
 	.list-social li {
-		margin-left: 15px;
+		margin-left: 8px;
+	}
+	.phone-main {
+		font-size: 15px;
 	}
 	.sandwich {
 		margin-left: 15px;
