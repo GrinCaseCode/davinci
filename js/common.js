@@ -47,15 +47,15 @@ if ( $(this).scrollTop() > 0 && $menu.hasClass("default") ){
 	$(".video-main").modalVideo();
 	//слайдер
 
-	$('.slider').slick({
+	$('.slider-room').slick({
 		arrows: true,
-		dots: true,
+		dots: false,
 		infinite: true,
 		touchThreshold: 1000,
 		slidesToShow: 1,
 		slidesToScroll: 1,
-		prevArrow: '<div class="slick-prev slick-arrow"><i class="fas fa-chevron-left"></i><div/>',
-		nextArrow: '<div class="slick-next slick-arrow"><i class="fas fa-chevron-right"></i><div/>',
+		prevArrow: '<div class="slick-prev slick-arrow"><i class="fal fa-chevron-left"></i><div/>',
+		nextArrow: '<div class="slick-next slick-arrow"><i class="fal fa-chevron-right"></i><div/>',
 	});
 
 	$(".input-phone").mask("+7 (999) 999-99-99");
