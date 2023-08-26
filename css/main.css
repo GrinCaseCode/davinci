@@ -467,7 +467,7 @@ form {
 }
 
 .prices {
-	padding: 9em 0em 12em 0em;
+	padding: 7em 0em 8em 0em;
 	background-color: #e6e5e1;
 }
 .prices .container > .title-middle {
@@ -868,10 +868,10 @@ form {
 	border: none;
 }
 .first-class .title-section {
-    font-size: 2.2em;
-    font-weight: 600;
-        line-height: 1;
-        color: #48C5B7;
+	font-size: 2.2em;
+	font-weight: 600;
+	line-height: 1;
+	color: #48C5B7;
 }
 .block-form {
 	padding: 2em;
@@ -885,22 +885,22 @@ form {
 }
 .item-form input {
 	height: 59px;
-	    color: #171717;
-    padding: 7px 20px;
-font-size: 1em;
-    font-weight: normal;
-    line-height: 1.6em;
-    font-family: 'Nunito Sans';
-        background-color: #F2EEEE;
-        border: none;
-        width: 100%;
-    border-radius: 10px;
+	color: #171717;
+	padding: 7px 20px;
+	font-size: 1em;
+	font-weight: normal;
+	line-height: 1.6em;
+	font-family: 'Nunito Sans';
+	background-color: #F2EEEE;
+	border: none;
+	width: 100%;
+	border-radius: 10px;
 }
 .title-input {
 	font-size: 0.8em;
-    font-weight: 700;
-    line-height: 1.6em;
-    padding-bottom: 10px;
+	font-weight: 700;
+	line-height: 1.6em;
+	padding-bottom: 10px;
 }
 .ui-datepicker {
 	font-size: 16px;
@@ -924,8 +924,8 @@ font-size: 1em;
 	height: 75px;
 	padding: 0 50px;
 	font-size: 1em;
-    font-weight: 600;
-    line-height: 25px;
+	font-weight: 600;
+	line-height: 25px;
 }
 .first-class .link-page {
 	color: #fff;
@@ -934,11 +934,11 @@ font-size: 1em;
 	color: #FF6F6F;
 }
 .ui-button, .ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default, html .ui-button.ui-state-disabled:active, html .ui-button.ui-state-disabled:hover {
-    border: none;
-    background: transparent;
-    font-weight: 400;
-    color: #454545;
-    text-align: center;
+	border: none;
+	background: transparent;
+	font-weight: 400;
+	color: #454545;
+	text-align: center;
 }
 .ui-icon.ui-icon-circle-triangle-w {
 	background-image: url(../img/prev.svg) !important;
@@ -954,10 +954,49 @@ font-size: 1em;
 }
 .ui-state-default:hover,
 .ui-state-active, .ui-widget-content .ui-state-active {
-	    background-color: #F2EEEE;
+	background-color: #F2EEEE;
 }
 .ui-widget.ui-widget-content {
 	border-radius: 8px;
 	border-color: #ddd;
 	box-shadow: 0 0 5px #c5c5c5;
+}
+.main-contacts {
+	background-color: #4F5E7F;
+	color: #fff;
+}
+.bottom-contacts {
+	padding-bottom: 5em;
+}
+.slick-arrow {
+	width: 40px;
+	height: 40px;
+	font-size: 30px;
+	top: 50%;
+	color: #000 !important;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.slick-arrow::before {
+	display: none;
+}
+.slick-prev {
+	left: 0;
+}
+.slick-next {
+	right: 0;
+}
+.slider-room .slick-prev {
+	left: -40px;
+}
+.slider-room .slick-next {
+	right: -40px;
+}
+.btn-icon img {
+	width: 40px;
+	height: 40px;
+}
+.btn-icon {
+	margin-left: 15px;
 }

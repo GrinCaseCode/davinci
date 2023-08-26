@@ -234,6 +234,32 @@
 	.item-program {
 		margin: 1em 0;
 	}
+	.btn-icon {
+		order: -1;
+	}
+	.list-social {
+		display: flex;
+		align-items: center;
+	}
+	.list-social li {
+		margin-left: 15px;
+	}
+	.sandwich {
+		margin-left: 15px;
+	}
+	.list-social img {
+		width: 40px;
+		height: 40px;
+	}
+	.slider-room .slick-prev {
+		left: -35px;
+	}
+	.slider-room .slick-next {
+		right: -35px;
+	}
+	.bottom-contacts {
+		padding-bottom: 2em;
+	}
 }
 
 /* Small Devices, Tablets */
@@ -338,8 +364,8 @@
 		padding: 0 45px;
 	}
 	.title-input {
-    font-size: 1em;
-}
+		font-size: 1em;
+	}
 }
 
 /* Extra Small Devices, Phones */
